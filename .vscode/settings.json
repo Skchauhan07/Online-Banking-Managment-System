@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "account_creation.h": "c",
+        "function.h": "c"
+    }
+}
